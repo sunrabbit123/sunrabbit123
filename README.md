@@ -1,5 +1,5 @@
 # Hi there 👋
-```css
+```
   Hello, my name is Byung Jin,
   The nickname used in many places is sunrabbit123,
   I'm student of GSM in Korea
