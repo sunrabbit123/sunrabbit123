@@ -3,7 +3,8 @@
   Hello, my name is Byung Jin,
   The nickname used in many places is sunrabbit123,
   I'm student of GSM in Korea,
-  My goal is to be an information security expert, and I am studying for it.
+  I enjoy developing my own programs.
+  My goal is to be an information security expert, and I am studying for it,
   So I'm looking at various fields and expanding my knowledge.
   Thank you for reading it.
 ```
