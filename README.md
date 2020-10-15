@@ -58,4 +58,4 @@
 
 # My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sunrabbit123&show_icons=true&hide_border=true&count_private=true)](https://github.com/sunrabbit123)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunrabbit123&layout=compact)](https://github.com/sunrabbit123)
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=sunrabbit123&hide_langs_below=0.5](https://github.com/sunrabbit123)
