@@ -9,53 +9,60 @@
   Thank you for reading it.
 ```
 
-# 💻 Development Languages
+# Development Language
+### Things I code with :zap:
 
-### 🔭 Things I code with :zap:
+1. Python
+2. Java
+3. C
+4. JavaScript
 
-> ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-> ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
-> ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+### Things I am Learning :pencil2:
 
-### 💬 Things I am Learning :pencil2:
+1. HTML5 
+2. CSS3
+3. SQL
 
-> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-> ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+> (It is Programing Language?? :thinking:)
 
-### 🤔 Things I am interested in :mag:
+### Things I am interested in :mag:
 
-> ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
-> ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-> ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
+1. Rust
+2. Kotlin
+3. Golang
 
 # ⚙ Technologies:
-> ### VCS
-> ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&&logo=git&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### VCS
+1. Git
+2. Github
 
-> ### Database
-> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-> ![MariaDB]
-> ![MongoDB]
-> ### Web Development
-> ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-> ![Koa.js]
-> ![Django]
-> ![FastAPI]
+### Database
+1. MySQL
+2. MariaDB
+3. MongoDB
 
-> ### API
-> ![Discord-API](https://img.shields.io/badge/-discord_api-7289da?style=flat-square&logo=Discord&logoColor=white)
+### Web Development
+#### Python
+1. Flask
+2. Django
+3. FastAPI
+#### JavaScript
+1. Koa.js
+2. express
 
-> ### Project Management
-> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### API
+1. Discord-API
+2. Papago API
+3. Open neis API
 
 # 📱 Tools:
 ### Code Editor
-![VSC](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+1. Visual Studio Code
+2. Visual Studio
+
 ### HTTP Request tool
-![PostMan]
+1. PostMan
 
 # 🎁 My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sunrabbit123&show_icons=true&hide_border=true&count_private=true)](https://github.com/sunrabbit123)
