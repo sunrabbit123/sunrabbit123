@@ -23,7 +23,7 @@
 2. CSS3
 3. SQL
 
-> (It is Programing Language?? :thinking:)
+> It is Programing Language?? :thinking:
 
 ### Things I am interested in :mag:
 
