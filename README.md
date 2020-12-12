@@ -7,7 +7,9 @@
   My goal is to be an information security expert, and I am studying for it,
   So I'm looking at various fields and expanding my knowledge.
   Thank you for reading it.
+  
 ```
+It's my email : qudwls185@naver.com
 
 # Development Language
 ### Things I code with :zap:
