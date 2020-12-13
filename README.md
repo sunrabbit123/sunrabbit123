@@ -21,9 +21,9 @@ It's my email : qudwls185@naver.com
 
 ### Things I am Learning :pencil2:
 
-1. HTML5 
-2. CSS3
-3. SQL
+1. Security
+2. Algorithm
+3. Server
 
 > It is Programing Language?? :thinking:
 
