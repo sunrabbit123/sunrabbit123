@@ -25,8 +25,6 @@ It's my email : qudwls185@naver.com
 2. Algorithm
 3. Server
 
-> It is Programing Language?? :thinking:
-
 ### Things I am interested in :mag:
 
 1. Rust
