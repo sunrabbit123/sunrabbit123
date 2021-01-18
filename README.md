@@ -1,35 +1,33 @@
 # Hi there 👋
-```
-  Hello, my name is Byung Jin,
-  The nickname used in many places is sunrabbit123,
-  I'm student of GSM in Korea,
-  I enjoy developing my own programs.
-  My goal is to be an information security expert, and I am studying for it,
-  So I'm looking at various fields and expanding my knowledge.
-  Thank you for reading it.
-  
-```
-It's my email : qudwls185@naver.com
 
-# Development Language
+I hope sequrity master, But I will study harder because I am a student.
+:field_hockey: my field : BE, Web Sequrity
+:e_mail: email : qudwls185@naver.com
+
+## Development Language
 ### Things I code with :zap:
 
 1. Python
-2. Java
-3. C
-4. JavaScript
+2. JavaScript
+3. Go
+4. TypeScript
 
-### Things I am Learning :pencil2:
+### DBMS I use
+1. MariaDB
+2. MongoDB
 
-1. Security
-2. Algorithm
-3. Server
+### Tool I use
+1. Postman
+2. VSCode
+3. heidSQL
+4. Git
 
-### Things I am interested in :mag:
-
-1. Rust
-2. Kotlin
-3. Golang
+### Framework I use
+1. FastAPI(Python)
+2. Flask(Python)
+3. Echo(Golang)
+4. Express.js
+5. Koa.js
 
 # 🎁 My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sunrabbit123&show_icons=true&hide_border=true&count_private=true)](https://github.com/sunrabbit123)
