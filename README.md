@@ -9,7 +9,7 @@
 ## Development Language
 
 ### Language I use
-Python, JavaScript, Golang, TypeScript, C
+Python, JavaScript, Golang, TypeScript, C, Java
 
 ### DBMS I use
 MariaDB, Oracle, MongoDB
