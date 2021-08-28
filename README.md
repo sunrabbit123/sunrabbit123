@@ -6,10 +6,8 @@
 - 💽 Discord : Sunrabbit#6500
 - 🤖 My discord bot : [Shaki](https://discord.com/oauth2/authorize?client_id=700605291196186634&scope=bot&permissions=1610837057)
 - ✍️ TIL :  [https://sunrabbit123.github.io/TIL/](https://sunrabbit123.github.io/TIL/)
-  
-## Development Language
 
-### I use...
+## I use...
 1. TypeScript(Serverless, GraphQL)
 2. Python(FastAPI)
 3. RDB(MySQL, MariaDB, Oracle)
