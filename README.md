@@ -9,11 +9,11 @@
   
 ## Development Language
 
-### Language I use
-Python, JavaScript, TypeScript
-
-### DBMS I use
-MariaDB, Oracle, MongoDB
+### I use...
+1. TypeScript(Serverless, GraphQL)
+2. Python(FastAPI)
+3. RDB(MySQL, MariaDB, Oracle)
+4. NoSQL(MongoDB, Redis)
 
 # 🎁 My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sunrabbit123&show_icons=true&hide_border=true&count_private=true)](https://github.com/sunrabbit123)
