@@ -4,7 +4,10 @@ Python, Node.js 서버를 개발하는 학생입니다.
 코드리뷰에 충분히 시간을 투자하는것을 긍정적인 가치로 생각하며, 이행하려합니다.  
 그러기에 다른 이도 보기 편한 코드를 짜기위해 노력합니다.  
 
-
+#### Project
+1. [Github Ranking in GSM](https://gri-g.github.io/)  
+2. [Joog-lim(bamboo forest in GSM)](https://joog-lim.info/)  
+3. [Snow_Shaki(Discord Bot)](https://github.com/sunrabbit123/Snow_shaki)  
 
 
 
