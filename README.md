@@ -1,10 +1,10 @@
-Using Ndoe and Python
-But it isn't important
-the important thing is that I'm always looking for value
-I'm effort to it
-
-Please contact me if it is worth pursuing.
-Then I could work for it.(Umm... maybe?)
+Using Ndoe and Python  
+But it isn't important   
+the important thing is that I'm always looking for value  
+I'm effort to it    
+  
+Please contact me if it is worth pursuing.  
+Then I could work for it.(Umm... maybe?)  
 
 #### Project
 1. [Github Ranking in GSM](https://gri-g.github.io/)  
