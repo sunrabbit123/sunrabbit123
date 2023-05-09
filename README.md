@@ -1,5 +1,5 @@
 Hello, I'm sunrabbit.  
-I am primarily responsible for server engineering.(TypeScript, Rust, Python, etc.)  
+I am primarily responsible for server engineering.(TypeScript, Rust, Python, Dotnet, etc.)  
 
 built application for the following use cases:  
 1. A GraphQL open API server for third-party applications.
