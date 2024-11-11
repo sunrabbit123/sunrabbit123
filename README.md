@@ -7,3 +7,7 @@ built application for the following use cases:
 3. Uncomplicated front-end development tasks (Next.js, tailwind).
 4. infrastructure simplicity with IaC
 5. application development in a distributed environment
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/sunrabbit123"/>
+</a>
