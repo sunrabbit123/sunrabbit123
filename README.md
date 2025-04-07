@@ -1,6 +1,3 @@
-Hello, I'm sunrabbit.  
-I am primarily responsible for server engineering.(TypeScript, Rust, DotNet, Golang, etc.)  
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/sunrabbit123"/>
 </a>
